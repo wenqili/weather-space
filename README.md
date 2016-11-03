@@ -1,4 +1,4 @@
-# weather-space
+# Weather Space
 This is Weather Space, input a city and get the weather of 16 days and a perfect illusion of 3D time-space.
 
 Different colors mean different weathers, and the red square ring shows the hover position of the mouse.
